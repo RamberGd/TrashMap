@@ -27,9 +27,9 @@ conda install plotly::plotly_express
 
 Just install dependencies and run the project with python. It can be run either directly from IDE you are using or from the folder that the program is: run
 
-python3 main.py
+``` python3 main.py ```
 or
-python main.py 
+``` python main.py ```
 
 with termanal opened from the folder with this program. For more information consult google or similar.
 
